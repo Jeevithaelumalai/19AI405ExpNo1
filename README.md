@@ -54,10 +54,6 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented.</p>
 
 ### PROGRAM:
-
-#### DEVELOPED BY : JEEVITHA E
-#### REG NO : 212222230054
-
 ```
 class VacuumCleanerAgent:
     def __init__(self):
